@@ -15,7 +15,7 @@ numpy, pandas, gensim, pyLDAvis, matplotlib, spacy
 
 Installation
 ------------
-"!pip install pyLDAvis"
+``!pip install pyLDAvis``
 
 ``pip install lda``
 
