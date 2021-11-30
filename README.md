@@ -5,7 +5,7 @@ lda: Topic modeling with latent Dirichlet allocation
 
 Objectif
 ------------
-The subject relates to "Topic Modeling". This is to extract the most recurring themes from a set of sentences. 
+Extract the most recurring themes from a set of sentences. 
 Themes can be single words or compound words of size 2 or 3 (n-grams).
 
 Requirements:
